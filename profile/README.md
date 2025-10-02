@@ -5,7 +5,7 @@ Founder of **nemois** | Server-side Swift Developer
 ---
 
 Welcome to my GitHub profile!
-I’m Jeongcheol Kim, founder and lead of the small team behind **nemois**. My journey is a little different—I hold a bachelor’s degree in Information, Telecommunication, and Electronic Engineering, not software engineering. But my passion for building inclusive technology drives me every day.
+I’m Jeongcheol Kim, founder and lead of the small team behind **nemois**. My journey is a little different—I hold a bachelor’s degree in INFORMATION, COMMUNICATIONS AND ELECTRONIC ENGINEERING, not software engineering. But my passion for building inclusive technology drives me every day.
 
 ## ✨ About nemois
 **nemois** is my personal mission to create applications that everyone can use—especially those often overlooked, like elderly people. I believe technology should be approachable and empowering for all.
